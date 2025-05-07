@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <div>
+        <h2>hello lipsha</h2>
         <SoftSellLanding />
       </div>
     </>
